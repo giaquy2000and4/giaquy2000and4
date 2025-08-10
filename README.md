@@ -3,7 +3,7 @@
 <td width="60%" valign="top">
 
 ## 👋 Hi, I'm Pham Gia Quy  
-Network Engineer from Viet Nam 🇻🇳  
+Network Engineer from Viet Nam 
 
 ### 💻 Tech Stack
 <div>
