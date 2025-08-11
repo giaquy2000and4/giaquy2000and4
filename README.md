@@ -16,9 +16,10 @@
 
 ## 🚀 **About Me**
 
-<table>
+<div align="center">
+<table border="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 👨‍💻 **Current Focus**
 - 🔭 Working on network automation projects
@@ -33,7 +34,7 @@
 - 📝 Start technical blogging
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### ⚡ **Fun Facts**
 - 🎮 Gaming enthusiast (streaming on Twitch)
@@ -48,6 +49,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
