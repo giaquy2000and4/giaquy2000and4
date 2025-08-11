@@ -1,7 +1,11 @@
 # 🌟 Welcome to My Digital World!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Gia+Quy;Network+Engineer+%26+Developer;From+VietNam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Gia+Quy;Network+Engineer+%26+Developer;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tsOHNsMWJwNWRqd3cydHVqOXlmdXRkamoyZTI1dDdxZGxwdTRoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hevI68C9Ii5ecsBSc0/giphy.gif" width="250" style="border-radius: 15px;" alt="Coding Animation" />
   
   <br/><br/>
   
@@ -17,38 +21,22 @@
 ## 🚀 **About Me**
 
 <div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top" align="left">
 
-### 👨‍💻 **Current Focus**
-- 🔭 Working on network automation projects
-- 🌱 Learning cloud technologies (AWS, Azure)
-- 💡 Exploring DevOps and Infrastructure as Code
-- 🎯 Building full-stack applications
+| 👨‍💻 **Current Focus** | ⚡ **Fun Facts** |
+|:---|:---|
+| 🔭 Working on network automation projects | 🎮 Gaming enthusiast (streaming on Twitch) |
+| 🌱 Learning cloud technologies (AWS, Azure) | 🎵 Music lover (check my Spotify below!) |
+| 💡 Exploring DevOps and Infrastructure as Code | 🏆 TryHackMe active member |
+| 🎯 Building full-stack applications | 🌏 Love connecting with tech communities |
+| | ☕ Coffee-powered coding sessions |
 
-### 🎯 **Goals for 2026**
-- 📜 Get CCNP certification
-- 🚀 Master Kubernetes & Docker
-- 🌐 Contribute to open source projects
-- 📝 Start technical blogging
+| 🎯 **Goals for 2024** | 💭 **Quote** |
+|:---|:---|
+| 📜 Get CCNP certification | *"The best way to predict the future* |
+| 🚀 Master Kubernetes & Docker | *is to invent it."* |
+| 🌐 Contribute to open source projects | **- Alan Kay** |
+| 📝 Start technical blogging | |
 
-</td>
-<td width="50%" valign="top" align="left">
-
-### ⚡ **Fun Facts**
-- 🎮 Gaming enthusiast (streaming on Twitch)
-- 🎵 Music lover (check my Spotify below!)
-- 🏆 TryHackMe active member
-- 🌏 Love connecting with tech communities
-- ☕ Coffee-powered coding sessions
-
-### 💭 **Quote**
-> *"The best way to predict the future is to invent it."* - Alan Kay
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -204,5 +192,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2025</sub>
+  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2024</sub>
 </div>
