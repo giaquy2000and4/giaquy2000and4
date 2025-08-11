@@ -1,7 +1,9 @@
 # 🌟 Welcome to My Digital World!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Gia+Quy;Network+Engineer+%26+Developer;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Pham+Gia+Quy;Network+Engineer+%26+Developer;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+  
+  <br/><br/>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=giaquy2000and4&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -24,7 +26,7 @@
 - 💡 Exploring DevOps and Infrastructure as Code
 - 🎯 Building full-stack applications
 
-### 🎯 **Goals for 2026**
+### 🎯 **Goals for 2024**
 - 📜 Get CCNP certification
 - 🚀 Master Kubernetes & Docker
 - 🌐 Contribute to open source projects
@@ -34,7 +36,7 @@
 <td width="50%" valign="top">
 
 ### ⚡ **Fun Facts**
-- 🎮 Gaming enthusiast
+- 🎮 Gaming enthusiast (streaming on Twitch)
 - 🎵 Music lover (check my Spotify below!)
 - 🏆 TryHackMe active member
 - 🌏 Love connecting with tech communities
