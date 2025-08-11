@@ -105,10 +105,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=giaquy2000and4&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/giaquy2000and4/giaquy2000and4/output/snake.svg" alt="Snake Animation" />
-</div>
-
 ---
 
 ## 🏆 **Achievements & Trophies**
