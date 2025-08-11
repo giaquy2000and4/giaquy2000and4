@@ -27,7 +27,7 @@
 - 💡 Exploring DevOps and Infrastructure as Code
 - 🎯 Building full-stack applications
 
-### 🎯 **Goals for 2024**
+### 🎯 **Goals for 2026**
 - 📜 Get CCNP certification
 - 🚀 Master Kubernetes & Docker
 - 🌐 Contribute to open source projects
@@ -204,5 +204,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2024</sub>
+  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2025</sub>
 </div>
