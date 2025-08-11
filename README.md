@@ -30,7 +30,7 @@
 | 🎯 Building full-stack applications | 🌏 Love connecting with tech communities |
 | | ☕ Coffee-powered coding sessions |
 
-| 🎯 **Goals for 2024** | 💭 **Quote** |
+| 🎯 **Goals for 2026** | 💭 **Quote** |
 |:---|:---|
 | 📜 Get CCNP certification | *"The best way to predict the future* |
 | 🚀 Master Kubernetes & Docker | *is to invent it."* |
@@ -192,5 +192,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2024</sub>
+  <sub>⭐️ From <a href="https://github.com/giaquy2000and4">Pham Gia Quy</a> with ❤️ | Last updated: 2025</sub>
 </div>
