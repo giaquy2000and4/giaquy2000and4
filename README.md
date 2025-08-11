@@ -24,7 +24,7 @@
 - 💡 Exploring DevOps and Infrastructure as Code
 - 🎯 Building full-stack applications
 
-### 🎯 **Goals for 2024**
+### 🎯 **Goals for 2026**
 - 📜 Get CCNP certification
 - 🚀 Master Kubernetes & Docker
 - 🌐 Contribute to open source projects
@@ -34,7 +34,7 @@
 <td width="50%" valign="top">
 
 ### ⚡ **Fun Facts**
-- 🎮 Gaming enthusiast (streaming on Twitch)
+- 🎮 Gaming enthusiast
 - 🎵 Music lover (check my Spotify below!)
 - 🏆 TryHackMe active member
 - 🌏 Love connecting with tech communities
